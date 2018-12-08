@@ -1,0 +1,8 @@
+﻿  dllmain.cpp
+  stdafx.cpp
+  ReflectiveLoader.cpp
+z:\reflectiveloader\reflectiveloader\reflectiveloader.cpp(494): warning C4477: “sprintf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“LPVOID”
+  正在生成代码...
+    正在创建库 Z:\ReflectiveLoader\x64\Debug\ReflectiveLoader.lib 和对象 Z:\ReflectiveLoader\x64\Debug\ReflectiveLoader.exp
+  ReflectiveLoader.vcxproj -> Z:\ReflectiveLoader\x64\Debug\ReflectiveLoader.dll
+  ReflectiveLoader.vcxproj -> Z:\ReflectiveLoader\x64\Debug\ReflectiveLoader.pdb (Full PDB)

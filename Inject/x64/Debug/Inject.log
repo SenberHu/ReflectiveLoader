@@ -1,0 +1,12 @@
+﻿  Inject.cpp
+z:\reflectiveloader\inject\inject.cpp(102): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+z:\reflectiveloader\inject\inject.cpp(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+z:\reflectiveloader\inject\inject.cpp(292): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+z:\reflectiveloader\inject\inject.cpp(304): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“ULONG_PTR”
+z:\reflectiveloader\inject\inject.cpp(650): warning C4311: “类型转换”: 从“WOW64CONTEXT *”到“DWORD”的指针截断
+z:\reflectiveloader\inject\inject.cpp(650): warning C4302: “类型转换”: 从“WOW64CONTEXT *”到“DWORD”截断
+z:\reflectiveloader\inject\inject.cpp(607): warning C4996: 'GetVersionExW': 被声明为已否决
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(442): note: 参见“GetVersionExW”的声明
+  Inject.vcxproj -> Z:\ReflectiveLoader\x64\Debug\Inject.exe
+  Inject.vcxproj -> Z:\ReflectiveLoader\x64\Debug\Inject.pdb (Full PDB)
